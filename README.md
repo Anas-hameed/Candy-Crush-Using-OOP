@@ -1,4 +1,4 @@
-# Csndy-Crush-Using-OOP-C++
+# Candy-Crush-Using-OOP-C++
 It Was my second semester project, in which i have to implement candy crush game Using OOP concept.\
 To Run Project:\
 Download these files.\
